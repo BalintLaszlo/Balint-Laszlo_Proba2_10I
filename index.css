@@ -61,6 +61,15 @@ ul p{
     color:bisque
 }
 
+h3 {
+    color:whitesmoke;
+    font-weight: bold;
+}
+
+h4 {
+    color:aliceblue;
+}
+
 .alma {
     background-color:palevioletred;
     color:deeppink;
