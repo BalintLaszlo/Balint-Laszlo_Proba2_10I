@@ -27,5 +27,14 @@ p {
 
 ol li {
     border:3px solid white;
-    margin:
+    margin:5px;
+}
+
+li {
+    background-color: darkviolet;
+}
+
+.iphone {
+    font-weight:bold;
+    color:aliceblue
 }
