@@ -78,3 +78,9 @@ ul p{
     color:crimson;
     font-weight: bold;
 }
+
+.korte {
+    color:aliceblue;
+    border:4px solid pink;
+    font-weight: bold;
+}
