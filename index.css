@@ -38,3 +38,14 @@ li {
     font-weight:bold;
     color:aliceblue
 }
+
+.samsung {
+    color:darkgray;
+}
+.huawei {
+    color:antiquewhite;
+}
+
+.sony {
+    color:fuchsia;
+}
